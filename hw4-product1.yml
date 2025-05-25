@@ -1,0 +1,5 @@
+data:
+  env: hw4-product1
+  user:
+    name: hw4-product
+    password: 123456
